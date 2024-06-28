@@ -1,0 +1,9 @@
+[%autowidth.stretch, cols="h,a"]
+|===
+|Base package
+|`com.example.demoModulith.notificacao`
+|Spring components
+|_Services_
+
+* `c.e.d.n.NotificacaoService`
+|===
