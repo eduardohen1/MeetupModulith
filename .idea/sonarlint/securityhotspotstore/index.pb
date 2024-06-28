@@ -3,12 +3,6 @@ s
 Csrc/main/java/com/example/demoModulith/DemoModulithApplication.java,8\f\8f4ccf661d9a6d4690506e000e19d03309a62d4c
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-k
-;src/main/java/com/example/demoModulith/produto/Produto.java,0\e\0ee8f3fb00d36682f1669464ad0a0ae5201d3bf3
-s
-Csrc/main/java/com/example/demoModulith/notificacao/Notificacao.java,1\5\15e674560ee13778a22b535c709ae89d433fb079
-w
-Gsrc/main/java/com/example/demoModulith/notificacao/NotificacaoType.java,2\8\287d5fd9d6787b30f5157d7b074e6ccdfd0ee8c1
 r
 Bsrc/main/java/com/example/demoModulith/produto/ProdutoService.java,d\f\dfdbede30a60a8aa61cbe59f0313010f10f6228c
 z
@@ -19,9 +13,7 @@ Hsrc/test/java/com/example/demoModulith/DemoModulithApplicationTests.java,b\7\b
 Lsrc/main/java/com/example/demoModulith/notificacao/internal/Notificacao.java,e\b\eb0209fbf7f8a68d873d75a78ea95ff108a8b8e3
 t
 Dsrc/main/java/com/example/demoModulith/produto/internal/Produto.java,2\2\221fcf08afa40ef7b86c33b407630e2e97b667ea
-‡
-Wsrc/main/java/com/example/demoModulith/notificacao/internal/produto/ProdutoService.java,8\c\8ca590e1fd13cb5bfb180dda2b0084559e793bfe
-‰
-Ysrc/main/java/com/example/demoModulith/notificacao/internal/produto/internal/Produto.java,b\0\b0788046d6d1748c044cf8f18e31ae570caa3584
 v
 Fsrc/main/java/com/example/demoModulith/notificacao/NotificacaoDTO.java,d\6\d69b41f9b1525364a3bcabc79b074b342cbf13f6
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
